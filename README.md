@@ -1,4 +1,4 @@
-`###Harita`
+###Harita
 * Giris menüsü
 	+ root
 	+ kurumsal
@@ -18,8 +18,8 @@
 * Fatura Tablosu
 	+ ?
 	
-<hr />   <hr />
-`####Yapılacak İşlemler:`
+<hr />
+####Yapılacak İşlemler:
 
 * Hesap Açtırma:
 
